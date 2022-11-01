@@ -1,0 +1,5 @@
+Admin, add then edit function
+image editing and enhance
+user profile settings
+new posting and reviews
+section by section on top of each other, 
